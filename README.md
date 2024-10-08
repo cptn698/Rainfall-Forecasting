@@ -1,4 +1,7 @@
 # Rainfall Prediction
+This repository contains a machine learning(LSTM) project for predicting rainfall using various meteorological data. 
+The project demonstrates data preprocessing, feature selection, and building predictive models using Python.
+and forecast 10 years of data.
 
  ## ACF PACF Plot
 ![image](https://github.com/user-attachments/assets/b6abfdad-21d9-4b32-9ccf-3f21e54c61b4)
